@@ -1,0 +1,10 @@
+/Users/tiagosantos/Projects/teste2/teste2/obj/Debug/netstandard2.0/SocketIO.Unity.csproj.AssemblyReference.cache
+/Users/tiagosantos/Projects/teste2/teste2/obj/Debug/netstandard2.0/SocketIO.Unity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagosantos/Projects/teste2/teste2/obj/Debug/netstandard2.0/SocketIO.Unity.AssemblyInfoInputs.cache
+/Users/tiagosantos/Projects/teste2/teste2/obj/Debug/netstandard2.0/SocketIO.Unity.AssemblyInfo.cs
+/Users/tiagosantos/Projects/teste2/teste2/obj/Debug/netstandard2.0/SocketIO.Unity.csproj.CoreCompileInputs.cache
+/Users/tiagosantos/Projects/teste2/teste2/bin/Debug/netstandard2.0/SocketIO.Unity.deps.json
+/Users/tiagosantos/Projects/teste2/teste2/bin/Debug/netstandard2.0/SocketIO.Unity.dll
+/Users/tiagosantos/Projects/teste2/teste2/bin/Debug/netstandard2.0/SocketIO.Unity.pdb
+/Users/tiagosantos/Projects/teste2/teste2/obj/Debug/netstandard2.0/SocketIO.Unity.dll
+/Users/tiagosantos/Projects/teste2/teste2/obj/Debug/netstandard2.0/SocketIO.Unity.pdb

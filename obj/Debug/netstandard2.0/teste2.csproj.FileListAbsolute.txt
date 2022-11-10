@@ -1,0 +1,10 @@
+/Users/tiagosantos/Projects/teste2/teste2/obj/Debug/netstandard2.0/teste2.csproj.AssemblyReference.cache
+/Users/tiagosantos/Projects/teste2/teste2/obj/Debug/netstandard2.0/teste2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagosantos/Projects/teste2/teste2/obj/Debug/netstandard2.0/teste2.AssemblyInfoInputs.cache
+/Users/tiagosantos/Projects/teste2/teste2/obj/Debug/netstandard2.0/teste2.AssemblyInfo.cs
+/Users/tiagosantos/Projects/teste2/teste2/obj/Debug/netstandard2.0/teste2.csproj.CoreCompileInputs.cache
+/Users/tiagosantos/Projects/teste2/teste2/bin/Debug/netstandard2.0/teste2.deps.json
+/Users/tiagosantos/Projects/teste2/teste2/bin/Debug/netstandard2.0/teste2.dll
+/Users/tiagosantos/Projects/teste2/teste2/bin/Debug/netstandard2.0/teste2.pdb
+/Users/tiagosantos/Projects/teste2/teste2/obj/Debug/netstandard2.0/teste2.dll
+/Users/tiagosantos/Projects/teste2/teste2/obj/Debug/netstandard2.0/teste2.pdb
